@@ -1,0 +1,3 @@
+[submodule "3dparty/LuSTScenario"]
+	path = 3dparty/LuSTScenario
+	url = https://github.com/harryprince/LuSTScenario
